@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pesquisaPraticaCTank/Enum/01_praticaEnum/01_praticaEnum.iml" filepath="$PROJECT_DIR$/pesquisaPraticaCTank/Enum/01_praticaEnum/01_praticaEnum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pesquisaPraticaCTank/Enum/02_canIliveHere/02_canIliveHere.iml" filepath="$PROJECT_DIR$/pesquisaPraticaCTank/Enum/02_canIliveHere/02_canIliveHere.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pesquisaPraticaCTank/Enum/03_javaSwitchStatement/03_javaSwitchStatement.iml" filepath="$PROJECT_DIR$/pesquisaPraticaCTank/Enum/03_javaSwitchStatement/03_javaSwitchStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pesquisaPraticaCTank/Enum/04_demoInum/04_demoInum.iml" filepath="$PROJECT_DIR$/pesquisaPraticaCTank/Enum/04_demoInum/04_demoInum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pesquisaPraticaCTank/Enum/05_EnumsRFun/05_EnumsRFun.iml" filepath="$PROJECT_DIR$/pesquisaPraticaCTank/Enum/05_EnumsRFun/05_EnumsRFun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula02/Aula02.iml" filepath="$PROJECT_DIR$/Aula02/Aula02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula03/Aula03.iml" filepath="$PROJECT_DIR$/Aula03/Aula03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CodeTank.iml" filepath="$PROJECT_DIR$/.idea/CodeTank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compiladoExerciciosResolvidos/compiladoExerciciosResolvidos.iml" filepath="$PROJECT_DIR$/compiladoExerciciosResolvidos/compiladoExerciciosResolvidos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula04/praticaDoComeçoDaAula/praticaDoComeçoDaAula.iml" filepath="$PROJECT_DIR$/Aula04/praticaDoComeçoDaAula/praticaDoComeçoDaAula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula04/praticasDeFinalDoExercicio/praticasDeFinalDoExercicio.iml" filepath="$PROJECT_DIR$/Aula04/praticasDeFinalDoExercicio/praticasDeFinalDoExercicio.iml" />
+    </modules>
+  </component>
+</project>
